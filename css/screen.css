@@ -42,7 +42,11 @@ h1{
 	font-size: 100%;
 }
 
-Footer{
+h2{
+	text-align: center;
+}
+
+footer{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	text-align: center;
