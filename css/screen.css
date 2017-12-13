@@ -70,3 +70,11 @@ IMG.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
+
+.previous {
+    background-color: #E6E6FA;
+}
+
+.next {
+    background-color: #E6E6FA;
+}
