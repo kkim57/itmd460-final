@@ -79,3 +79,8 @@ IMG.displayed {
     background-color: powderblue;
     right: 0px;
 }
+
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
